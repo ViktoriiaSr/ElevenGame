@@ -44,13 +44,4 @@ public class Card {
                 '}';
     }
 
-    public String getRules() {
-        return """
-                Rules of ElevenGame
-                You will have a 9 cards on the table and 43 on the deck
-                To win, it is necessary that there are no cards left on the table or in the deck
-                You can remove 2 cards, which give 11 or 3 cards, which give a triple (jack, queen, king
-                Have fun""";
-    }
-
 }
